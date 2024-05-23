@@ -8,7 +8,6 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Products from "./pages/Products";
 import NotFound from "./pages/NotFound";
-// import ProductDetail from './pages/ProductDetail';
 import ProductDetail2 from "./pages/ProductDetail2";
 import Campaigns from "./pages/Campaigns";
 import BlackFriday from "./components/BlackFriday";
